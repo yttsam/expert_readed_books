@@ -15,9 +15,9 @@
     </a>
   </td>
   <td align="center">
-    <a href="#工程类">
+    <a href="#软件工程">
       <img src="icons/工程类.png" width="120px" height="100px">
-      <p>工程类</p>
+      <p>软件工程</p>
     </a>
   </td>
   <td align="center">
@@ -73,7 +73,7 @@
   </td>
   <td align="center">
     <a href="#人物传">
-      <img src="icons/创业类.png" width="120px" height="100px">
+      <img src="icons/人物传.png" width="120px" height="100px">
       <p>创业类</p>
     </a>
   </td>
@@ -145,7 +145,7 @@
 
 <br/>
 
-## 工程类
+## 软件工程
 
 #### 人月神话
 
