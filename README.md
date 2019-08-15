@@ -74,7 +74,7 @@
   <td align="center">
     <a href="#人物传">
       <img src="icons/人物传.png" width="120px" height="100px">
-      <p>创业类</p>
+      <p>人物传</p>
     </a>
   </td>
   
