@@ -30,6 +30,28 @@
     </a>
   </td>
   <td align="center">
+    <a href="#哲学类">
+      <img src="icons/哲学类.png" width="120px" height="100px">
+      <p>哲学类</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="#大佬书籍">
+      <img src="icons/大佬书籍.png" width="120px" height="100px">
+      <p>大佬书籍</p>
+    </a>
+  </td>
+  
+  </tr><tr>
+  
+  
+  <td align="center">
+    <a href="#历史类">
+      <img src="icons/历史类.png" width="120px" height="100px">
+      <p>历史类</p>
+    </a>
+  </td>
+  <td align="center">
     <a href="#思想类">
       <img src="icons/思想类.png" width="120px" height="100px">
       <p>思想类</p>
@@ -41,33 +63,13 @@
       <p>数学类</p>
     </a>
   </td>
-  
-  </tr><tr>
-  
-  <td align="center">
-    <a href="#哲学类">
-      <img src="icons/哲学类.png" width="120px" height="100px">
-      <p>哲学类</p>
-    </a>
-  </td>
-  <td align="center">
-    <a href="#历史类">
-      <img src="icons/历史类.png" width="120px" height="100px">
-      <p>历史类</p>
-    </a>
-  </td>
   <td align="center">
     <a href="#经济类">
       <img src="icons/经济类.png" width="120px" height="100px">
       <p>经济类</p>
     </a>
   </td>
-  <td align="center">
-    <a href="#大佬书籍">
-      <img src="icons/大佬书籍.png" width="120px" height="100px">
-      <p>大佬书籍</p>
-    </a>
-  </td>
+  
   <td align="center">
     <a href="#小说类">
       <img src="icons/小说类.png" width="120px" height="100px">
